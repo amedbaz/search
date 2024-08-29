@@ -1,6 +1,36 @@
 {
   "Searchii":
  [
+    {
+    "value":6,
+      "lable":"Inside out 2 Arabic",
+      "wene1":"https://firebasestorage.googleapis.com/v0/b/fir-auth-c35db.appspot.com/o/inside%20out%202%2Fphoto_2024-08-29_03-17-16.jpg?alt=media&token=2718032a-df0f-45ef-925c-fc6920830d66",
+      "wene":"https://firebasestorage.googleapis.com/v0/b/fir-auth-c35db.appspot.com/o/inside%20out%202%2Fphoto_2024-08-29_03-21-12.jpg?alt=media&token=3634f444-c279-48c1-8e0d-4203445f1ace",
+      "ism":".",
+      "nav":"Inside out 2",
+    "action":"film",
+    "aaction":": Animation",
+    "raiting":"star",
+    "araitng":": 7.7",
+    "time":"time-sharp",
+    "atime":": 1h 42m",
+    "trailer":"ترەیلەر",
+    "youtube":"LEjhY15eCx0?si=3Ct4K8P8EDAbCtoH",
+      "youtube1":"RMnYXNnikEY?si=sS7n10XFwVmtVUua",
+      "youtube2":"n2ek9Q7T-B0?si=T2S7GlDnB9YFLPiq",
+      "youtube3":"M7KelAaqsCg?si=o-ibdoCLKkhA55fH",
+      "jor":"Inside out 2",
+"play":"https://firebasestorage.googleapis.com/v0/b/fir-auth-c35db.appspot.com/o/inside%20out%202%2FInside%20Out%202.mp4?alt=media&token=819ccf07-6520-41a9-8239-0ab13e96c7f8",
+ "kurti":"مختصر",
+ "akurti":"تتمة تدور أحداثها حول دخول رايلي سن البلوغ وتجربة مشاعر جديدة أكثر تعقيدًا نتيجة لذلك. بينما تحاول رايلي التكيف مع سنوات مراهقتها، تحاول مشاعرها القديمة التكيف مع احتمالية استبدالها",
+"actor":"https://media.themoviedb.org/t/p/w276_and_h350_face/rwmvRonpluV6dCPiQissYrchvSD.jpg",
+"actor1":"https://media.themoviedb.org/t/p/w276_and_h350_face/abroQsos8bGN0ATm8j05z2THoOw.jpg",
+ "actor2":"https://media.themoviedb.org/t/p/w276_and_h350_face/tBqawwg2VJq1V4mZjAOFQ7fnXNW.jpg",
+ "actor3":"https://media.themoviedb.org/t/p/w276_and_h350_face/8M0B0LlwiXyBMaCCcp4nbyXSPCy.jpg",
+ "actor4":"https://media.themoviedb.org/t/p/w276_and_h350_face/9yTDK4xUSAsC5fVY2bvgCaTnZ7L.jpg",
+ "actor5":"https://media.themoviedb.org/t/p/w276_and_h350_face/1Yvp5dwnJ1UI0KtXGNhZ384wTgv.jpg",
+"new":"https://firebasestorage.googleapis.com/v0/b/fir-auth-c35db.appspot.com/o/wenee%2Fimage-removebg-preview.png?alt=media&token=a7ee7605-d295-479b-93a2-26461468bf6e"
+    },
    {
    "value":5,
       "lable":"Rebel Moon – Part Two Arabic",
