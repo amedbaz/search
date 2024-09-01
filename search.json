@@ -2,6 +2,37 @@
   "Searchii":
  [
     {
+  
+   "value":7,
+      "lable":"John Wick 1 Badini",
+      "wene1":"https://firebasestorage.googleapis.com/v0/b/fir-auth-c35db.appspot.com/o/john%20wick%2Fphoto_2024-08-28_10-31-43.jpg?alt=media&token=452ba689-d5ad-47eb-bf41-b75f021df883",
+      "wene":"https://firebasestorage.googleapis.com/v0/b/fir-auth-c35db.appspot.com/o/john%20wick%2Fphoto_2024-08-28_10-31-42.jpg?alt=media&token=18373bd1-bb28-4144-b6ce-6cff427acf51",
+      "ism":"جون ويك",
+      "nav":"John wick 1",
+    "action":"film",
+    "aaction":": Action",
+    "raiting":"star",
+    "araitng":": 7.4",
+    "time":"time-sharp",
+    "atime":": 1h 41m",
+    "trailer":"ترەیلەر",
+    "youtube":"C0BMx-qxsP4?si=dObNFMEkGAMFQFX",
+      "youtube1":"bvaftiAu7mw?si=K1griAlc9e9fymJa",
+      "youtube2":"5fDtuvnj8RE?si=WyOmTuDOS8tnt0i0",
+      "youtube3":"ZCj30iGOObo?si=PtInh8NnipCAJD-2",
+      "jor":"John wick 1",
+"play":"https://firebasestorage.googleapis.com/v0/b/fir-auth-c35db.appspot.com/o/john%20wick%2FJohn.Wickbadini.2014.1080p.BluRay.x264-%5BYTS.AG%5D.mp4?alt=media&token=f4b60d99-2e5c-43a3-ab7f-6995f6445b40",
+ "kurti":"کورتی",
+"akurti":"زەلامەکێ بکوژ دەست ژ کارێ خو بەردەت و بریارێ ددەت ژیانەکا ئارام بژیت بەلێ گروپەك صەیێ وی دکوژن و ھندەك تشتێن وی دبەن ئەوژی دەست ب تولڤەکرنێ دکەت",
+"actor":"https://media.themoviedb.org/t/p/w276_and_h350_face/4D0PpNI0kmP58hgrwGC3wCjxhnm.jpg",
+"actor1":"https://media.themoviedb.org/t/p/w276_and_h350_face/qjONLp73Z5tvbuMe9g18Mb9hI0J.jpg",
+ "actor2":"https://media.themoviedb.org/t/p/w276_and_h350_face/ui8e4sgZAwMPi3hzEO53jyBJF9B.jpg",
+ "actor3":"https://media.themoviedb.org/t/p/w276_and_h350_face/d9nGt8MloJwosRbGp10gaeHExcZ.jpg",
+ "actor4":"https://media.themoviedb.org/t/p/w276_and_h350_face/zxgOZAYGxa2qmiZkJKGRIhwbGhG.jpg",
+ "actor5":"https://media.themoviedb.org/t/p/w276_and_h350_face/aHAxzvcDnxPoAT592ZIaLhA90tQ.jpg",
+"new":"https://firebasestorage.googleapis.com/v0/b/fir-auth-c35db.appspot.com/o/wenee%2Fimage-removebg-preview.png?alt=media&token=a7ee7605-d295-479b-93a2-26461468bf6e"
+    },
+    {
     "value":6,
       "lable":"Inside out 2 Arabic",
       "wene1":"https://firebasestorage.googleapis.com/v0/b/fir-auth-c35db.appspot.com/o/inside%20out%202%2Fphoto_2024-08-29_03-17-16.jpg?alt=media&token=2718032a-df0f-45ef-925c-fc6920830d66",
