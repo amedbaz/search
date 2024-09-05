@@ -1,6 +1,36 @@
 {
   "Searchii":
  [
+    {
+      "value":7,
+      "lable":"Kung Fu Yogo Badini",
+      "wene1":"https://firebasestorage.googleapis.com/v0/b/fir-auth-c35db.appspot.com/o/kung%20fu%20yogo%2Fjack1.jpg?alt=media&token=96d5db72-88cc-4e7d-a855-9f86092e3b46",
+      "wene":"https://firebasestorage.googleapis.com/v0/b/fir-auth-c35db.appspot.com/o/kung%20fu%20yogo%2Fjack.jpg?alt=media&token=7a537477-089f-4288-b8f9-973a79d9e961",
+      "ism":" ",
+      "nav":"Kung Fu Yogo",
+    "action":"film",
+    "aaction":": Action",
+    "raiting":"star",
+    "araitng":": 5.2",
+    "time":"time-sharp",
+    "atime":": 1h 47m",
+    "trailer":"ترەیلەر",
+    "youtube":"DkPluechlNY?si=PJdPvdP4Xxh9clqt",
+      "youtube1":"TFaA13i7AAc?si=INYIZ5jPIFPxSVfE",
+      "youtube2":"pqZ-PkUlJkU?si=9E7EZINZdiTrUz7H",
+      "youtube3":"V_ePU1sZ1d8?si=cg4L_QT0eW7-JbRB",
+      "jor":"Kung Fu Yogo",
+"play":"https://firebasestorage.googleapis.com/v0/b/fir-auth-c35db.appspot.com/o/kung%20fu%20yogo%2FKung.Fu.Yoga.2017.1080p.mp4?alt=media&token=a06f3637-0a6f-4dbe-8730-275640cb345f",
+ "kurti":"کورتی",
+ "akurti":"دەمێ جاک ماموستایێ شێینوارا دگەل پروفیسورەکا هندی پێکڤە کاردکەن بو دیتنا گەنجینەیا هندستانێ تەلهەک بودهێتە دانان جاک زانیاریێت کونگ فو یێ بکاردێینیت بو رەڤینێ و دیتنا جهێ گەنجینێ",
+"actor":"https://www.hollywoodreporter.com/wp-content/uploads/2012/07/chan_a.jpg?w=1440&h=810&crop=1",
+"actor1":"https://upload.wikimedia.org/wikipedia/commons/f/ff/Lay_at_Busan_International_Film_Festival_Opening_Ceremony_on_October_4%2C_2018_%282%29_%28derived%29.jpg",
+ "actor2":"https://media.themoviedb.org/t/p/w500/bRnt4FwvIFLXcIBdnZJmUnjbnxj.jpg",
+ "actor3":"https://content.tupaki.com/h-upload/2023/10/16/173353-bm3bfwea.webp",
+ "actor4":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Photos-Disha-Patani-snapped-at-Myntra-event_%28cropped%29.jpg/220px-Photos-Disha-Patani-snapped-at-Myntra-event_%28cropped%29.jpg",
+ "actor5":"https://m.media-amazon.com/images/M/MV5BZGI2MGUwYzQtZmVmNi00MDc3LWEwMzMtNTIzMWIzMDk5YzViL2ltYWdlXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_.jpg",
+"new":"https://firebasestorage.googleapis.com/v0/b/fir-auth-c35db.appspot.com/o/wenee%2Fimage-removebg-preview.png?alt=media&token=a7ee7605-d295-479b-93a2-26461468bf6e"
+    },
    {
     "value":6,
       "lable":"The Mother Badini",
