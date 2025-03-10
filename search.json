@@ -1,6 +1,39 @@
 {
   "Searchii":
  [
+     {
+   "value":22,
+      "lable":"society of the snow ",
+        "zman":"Badini",
+      "wene1":"https://firebasestorage.googleapis.com/v0/b/fir-auth-c35db.appspot.com/o/society%20of%20the%20snow%2Fx3.jpg?alt=media&token=9db76279-10da-4381-b491-ad2861ac6a9d",
+      "wene":"https://media.themoviedb.org/t/p/w600_and_h900_bestv2/2e853FDVSIso600RqAMunPxiZjq.jpg",
+      "ism":" ",
+      "nav":"society of the snow",
+    "action":"film",
+    "aaction":"Action",
+    "raiting":"star", 
+    "araitng":" 7.8",
+    "time":"time-sharp",
+    "atime":" 2h 24m",
+    "trailer":"ترەیلەر",
+    "youtube":"pDak4qLyF4Q?si=Jq13VRQEizWDN7eO",
+      "youtube1":"rBSh28CiL6E?si=1z6VWrHDR-5dC3F6",
+      "youtube2":"dQ8mT0VmEjY?si=lb64Sk7Om0gLuqfS",
+      "youtube3":"gf2glD_KzMs?si=uRhnfZ827Jy01ZYI",
+      "jor":"society of the snow",
+   "play1":"https://firebasestorage.googleapis.com/v0/b/fir-auth-c35db.appspot.com/o/playy.png?alt=media&token=37b0b437-4dec-46d2-b6bc-ce146d2d7acb",
+"play":"https://firebasestorage.googleapis.com/v0/b/fir-auth-c35db.appspot.com/o/society%20of%20the%20snow%2FSociety.Of.The.Snow.2023.mp4?alt=media&token=434e4498-68bd-4194-8648-abb021d884f6",
+ "kurti":"كورتی",
+ "akurti":"فروکەیەک چەند یاریزانا دگەل خو د هەلگریت ژنیشکەکێ ڤە ئەو فروکەیە ل زنجیرێت چیایێ (ئەندێس)دکەڤیت ئەوکەسێت ژڤێ رویدانێ رزگاردبن خو دگەل مەترسیترین ژینگەها جیهانێ دگونجینن تاوی دەمێ رزگارببن",
+"actor":"https://media.themoviedb.org/t/p/w276_and_h350_face/ebRL8vHFjA0vCYw66CmUa4UJ9Be.jpg",
+"actor1":"https://media.themoviedb.org/t/p/w276_and_h350_face/ca5F6oZBc5lkBGg8h4PxbnWdheI.jpg",
+ "actor2":"https://media.themoviedb.org/t/p/w276_and_h350_face/nM76X11MNK8G3CzeCieTDFOxw5r.jpg",
+ "actor3":"https://media.themoviedb.org/t/p/w276_and_h350_face/s9GB7XRNO8Z75JhomNW4KZoZdMJ.jpg",
+ "actor4":"https://media.themoviedb.org/t/p/w276_and_h350_face/Xd1zVaCxxG6ePx4riQCxzf4MoD.jpg",
+ "actor5":"https://media.themoviedb.org/t/p/w276_and_h350_face/ayxKY2CnDcwVGkV9mWkHZYTTiuS.jpg",
+"new":"https://firebasestorage.googleapis.com/v0/b/fir-auth-c35db.appspot.com/o/wenee%2Fimage-removebg-preview.png?alt=media&token=a7ee7605-d295-479b-93a2-26461468bf6e"
+    }
+,
    {
    "value":21,
       "lable":"weak Hero Class 2 ",
